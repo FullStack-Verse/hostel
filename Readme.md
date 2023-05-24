@@ -1,5 +1,8 @@
 ## Hostel Management Systen Using PHP and MySQL
 
+![image](https://github.com/MainakRepositor/hostel/assets/64016811/83d02224-e254-43ba-b1ac-ad6192b8432f)
+
+
 Installation Steps(Configuration)
 1. Download and Unzip the file on your local system.
 2. Put this file inside xampp/htdocs/ .
